@@ -15,7 +15,7 @@ Peyton
 Elijah
 [x] Reuben
 Andrew
-Nate
+[x] Nate
 Akuma
 [x] Reid
 [x] Jared
