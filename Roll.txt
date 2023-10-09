@@ -9,7 +9,7 @@ Journey
 William
 Isaiah
 Chanel
-Daniel
+[x] Daniel "Jones"
 Niko
 Peyton
 Elijah
